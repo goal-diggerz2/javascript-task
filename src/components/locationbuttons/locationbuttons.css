@@ -1,0 +1,25 @@
+.location__btn {
+  height: 65px;
+  width: 366px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border: none;
+  background: #f6f9ff;
+  padding: 0 18px;
+}
+
+.location__text{
+  text-align: left;
+  display: block;
+  flex-direction: column;
+  margin: 15px auto 20px 15px;
+}
+
+.location__text >h3 {
+  margin-bottom: 0px;
+}
+
+.location__icon{
+  margin-bottom: 8px;
+}
