@@ -3,7 +3,7 @@ import chairIconSrc from "../../assets/chair.svg";
 
 export const createDetailElement = () => {
   const detailText = createElement("div", {
-    className: "detail__text",
+    className: "detail__text class__text",
     children: [
       createElement("h3", {
         innerText: "Class",

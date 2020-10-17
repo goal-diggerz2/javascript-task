@@ -49,7 +49,6 @@ textarea {
   color: var(--active-color);
 }
 
-<<<<<<< HEAD
 .detail__btn {
   height: 100px;
   width: 170px;
@@ -58,11 +57,10 @@ textarea {
   justify-content: space-between;
   background-color: #F6F9FF;
   border: none;
-=======
+}
 p {
   color: black;
   font-size: 15px;
   letter-spacing: 0.025em;
   margin: 5px 0 0;
->>>>>>> master
 }
