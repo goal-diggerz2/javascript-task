@@ -46,3 +46,13 @@ textarea {
   background-color: #0050a6;
   color: var(--active-color);
 }
+
+.detail__btn {
+  height: 100px;
+  width: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #F6F9FF;
+  border: none;
+}

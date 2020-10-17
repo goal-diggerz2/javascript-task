@@ -1,9 +1,9 @@
 import "./details.css";
-import { createDetailElement } from "./details";
+import { createDetailElement } from "./travellers";
 
 export default {
   title: "Components/details",
   parameters: { layout: "centered" },
 };
 
-export const departureDetail = () => createDetailElement();
+export const travellerDetail = () => createDetailElement();
